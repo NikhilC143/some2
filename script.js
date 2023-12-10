@@ -9,13 +9,13 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "nikhil" && password === "preetu1432") {
         alert("You have successfully logged in.");
-        location.href = "https://celadon-palmier-c88850.netlify.app/";
+        location.href = "https://chat143.app/";
         
     } 
     else if (username === "preetu" && password === "preetu1432") {
         
         alert("You have successfully logged in.");
-        location.href = "https://celadon-palmier-c88850.netlify.app/";
+        location.href = "https://chat143.app/";
         
     } else {
         loginErrorMsg.style.opacity = 1;
